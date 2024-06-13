@@ -2,7 +2,9 @@
 ### Olá meu nome é Luca Ramos 👋
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (lucafvr14@gmali.com)
+//
 [![Celular](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)] ((11) 98649-0643)
+//
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/luca-ramos-654a3420b/)
 
 
